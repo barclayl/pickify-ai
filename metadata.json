@@ -1,0 +1,5 @@
+{
+  "name": "Pickify",
+  "description": "An application that sells AI-driven football player prop bets, allowing users to buy single-game bets or a subscription for unlimited access.",
+  "requestFramePermissions": []
+}
